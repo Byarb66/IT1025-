@@ -1,21 +1,3 @@
-## Your Name / Date
-
-## Executive Summary 
-Include your executive summary here...
-
-## Hardware
-### Hard Drives and Memory
-#### Latency and Transfer Rates
-#### Solid State vs. Hard Drives
-#### Random Access Memory
-### ALU and the Control Unit
-### CPU, Input & Output
-### Logic Gates 
-### IEEE - Ethically Aligned Design
-
-## Data Representation
-### Decimal, Binary and Hexadecimal
-### Hexadecimal Color Representation
-
-## Conclusion
-Include your conclusion here...
+## Brandon Yarbrough 
+The difference between Decimal, binary and hexidecimal is that Decimal represents numbers using Ten digits, Binary represents numbers using two digits and Hexadecimal represents number using ten digits and 6 characters (numbers 0-9, letters A,B,C,D,E,F)
+the Binary form of the decimal 193 would be (11000001)2 This can be found by dividing 193 by 2, dividing 96 by, dividing 48 by 2, dividing 12 by 2, dividing 6 by 2, dividing 3 by 2, dividing 1, by 2, after dividing all of thiese numbers , write all of these numbers from bottom to top and you will have the binary form of 193.
